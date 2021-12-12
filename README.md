@@ -2,13 +2,3 @@
 
 :seedling: Currently Learning Javascript
  
-  
- 
-   
-  
- 
- 
- 
- 
- 
- 
