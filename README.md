@@ -11,7 +11,7 @@
  Welcome to my profile! I am a self taught Front End Developer who loves to watch anime when I'm not coding 🍜
  
  
-   <h3>Things I code with</h3>
+## Things I code with
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -27,7 +27,12 @@
   
 </p>
 
-  <h3>Tools used to organize work</h3>
+## About me
+
+- 🌱 I’m currently learning React <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
+- ⚡ Fun fact: I love bears 🐻
+
+## Tools used to organize work
 <p> 
   
   <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
@@ -39,7 +44,7 @@
   <img alt="" src=""/>
 </p>
 
-<h3>Where to find me</h3>
+## Where to find me
 
   
   <a href="https://www.linkedin.com/in/iulian-ursu-24878921b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
