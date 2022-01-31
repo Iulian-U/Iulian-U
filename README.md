@@ -1,8 +1,9 @@
 <h1 align='center'>
   Hi!  I'm Iulian :blush:
+  
 </h1>
- 
-   
+
+    
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20something%20new%20everyday%20;Front%20end%20developer%21%20&center=true&width=380&height=25"></a>
 </p>
@@ -36,9 +37,14 @@
   <img alt="" src=""/>
   <img alt="" src=""/>
   <img alt="" src=""/>
-  
 </p>
-     
+
+<h3>Where to find me</h3>
+
+  
+  <a href="https://www.linkedin.com/in/iulian-ursu-24878921b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+
+  
      
        
  
