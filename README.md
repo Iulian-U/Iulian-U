@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20something%20new%20everyday%20;Front%20end%20developer%21%20&center=true&width=380&height=35"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20something%20new%20everyday%20;Front-end%20developer%21%20&center=true&width=380&height=35"></a>
 </p>
   
  Welcome to my profile! I am a self taught Front End Developer who loves to watch anime when I'm not coding 🍜
