@@ -27,7 +27,7 @@
 
 ## About me
 
-- I’m currently learning Vue <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-color-tal-revivo.png"/>
+- Highly motivated, self-starting developer seeking to launch a career building web applications and services.
 
 ## Tools I work with
 <p> 
