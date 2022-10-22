@@ -6,13 +6,13 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20something%20new%20everyday%20;Front-end%20developer%21%20&center=true&width=380&height=35"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AE35&width=600&lines=It's+not+a+bug+-+it's+an+undocumented+feature" alt="Typing SVG" /></a>
 </p>
 
 
 ## About me
 
-- Highly motivated, self-starting developer seeking to launch a career building web applications and services.
+- Highly motivated Frontend developer who spends most of the days trying to learn something new.
   
  
  
