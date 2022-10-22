@@ -1,6 +1,8 @@
-<h1 align='center'>
-  Hi!  I'm Iulian :blush:
-</h1>
+<div align="center">
+  <img src="https://i.ibb.co/0BQxMB5/developer-male-png.png" alt="Girl in a jacket" width="300" height="300"/>
+  <h1>Hi!  I'm Iulian</h1>
+</div>
+
 
 
 
