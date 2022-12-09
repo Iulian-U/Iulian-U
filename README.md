@@ -13,6 +13,9 @@ Currently working with the team at [IDNTT](https://www.idntt.ro/) as a Web Conte
 ## 🌿 Experience
 
 I have experience building web apps using frontend technologies and frameworks such as Vue JS, currently diving into the backend world too
+</br>
+</br>
+#### Below are the technologies I've been experimenting with:
 
 <br/>
 
