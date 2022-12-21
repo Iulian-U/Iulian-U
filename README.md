@@ -15,7 +15,7 @@ Currently working with the team at [IDNTT](https://www.idntt.ro/) as a Web Conte
 I have experience building web apps using frontend technologies and frameworks such as Vue JS, currently diving into the backend world too
 </br>
 </br>
-#### Below are the technologies I've been experimenting with:
+#### Technologies I've been experimenting with:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
