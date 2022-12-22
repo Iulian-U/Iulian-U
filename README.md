@@ -36,3 +36,5 @@ I have experience building web apps using frontend technologies and frameworks s
 ## 📫 Contact
 
 You can contact me via [LinkedIn](https://www.linkedin.com/in/iulian-ursu-28006625a/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iulian-u)](https://github.com/anuraghazra/github-readme-stats)
