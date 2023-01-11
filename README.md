@@ -40,4 +40,4 @@ You can contact me via [LinkedIn](https://www.linkedin.com/in/iulian-ursu-280066
 <br/>
 
 ## 📊 Stats
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iulian-u)](https://github.com/anuraghazra/github-readme-stats)
