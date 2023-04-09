@@ -6,13 +6,12 @@ I am a 26 year old Self-taught Front-End Developer
 
 ## ⚡ Current
 
-Currently working with the team at [IDNTT](https://www.idntt.ro/) as a Web Content Editor. I am also learning Node JS and improving Frontend skills during my free time
-
+Currently working with the team at [Stefanini](https://stefanini.com/en) as a Junior Software Engineer.
 <br/>
 
 ## 🌿 Experience
 
-I have experience building web apps using frontend technologies and frameworks such as Vue JS, currently diving into the backend world too
+I have experience building web apps using frontend technologies and frameworks such as Vue JS and React.
 </br>
 </br>
 #### Technologies I've been experimenting with:
