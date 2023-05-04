@@ -11,7 +11,7 @@ Currently working with the team at [Stefanini](https://stefanini.com/en) as a Ju
 
 ## 🌿 Experience
 
-I have experience building web apps using frontend technologies and frameworks such as Vue JS.
+I have experience building web apps using frontend technologies and frameworks such as Vue JS and React.
 </br>
 </br>
 #### Technologies I've been experimenting with:
