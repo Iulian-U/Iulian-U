@@ -1,6 +1,4 @@
-### Hey, I'm Iulian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-
-I am a 26 year old Front-End Developer
+### Hey, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 <br/>
 
