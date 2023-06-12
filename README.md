@@ -35,9 +35,4 @@ I have experience building web apps using frontend technologies and frameworks s
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<br/>
-
-## 📫 Contact
-
-You can contact me via [LinkedIn](https://www.linkedin.com/in/iulian-ursu-28006625a/)
 
