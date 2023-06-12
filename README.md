@@ -2,11 +2,6 @@
 
 <br/>
 
-## ⚡ Current
-
-Currently working with the team at [Stefanini](https://stefanini.com/en) as a Junior Software Engineer.
-<br/>
-
 ## 🌿 Experience
 
 I have experience building web apps using frontend technologies and frameworks such as Vue JS and React.
