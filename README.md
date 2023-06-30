@@ -2,10 +2,6 @@
 
 <br/>
 
-## 🌿 Experience
-
-I have experience building web apps using frontend technologies and frameworks such as Vue JS and React.
-</br>
 </br>
 #### Technologies I've been experimenting with:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
